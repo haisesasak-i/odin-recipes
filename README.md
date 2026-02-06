@@ -1,4 +1,4 @@
-# 🍽️ My Recipe Collection
+# 🍽️ Odin Recipe
 
 ## Overview
 
